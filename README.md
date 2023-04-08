@@ -44,7 +44,6 @@
 <br>
 
 <h2 align="center">📊 GitHub Stats </h2>
-
 <br>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-streak-stats.herokuapp.com/?user=mshazil&theme=dark&hide_border=false)<br/>
