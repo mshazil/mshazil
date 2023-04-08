@@ -57,8 +57,6 @@
 
 <br>
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-
 <br>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![](https://visitcount.itsvg.in/api?id=mshazil&icon=3&color=12)](https://visitcount.itsvg.in)
