@@ -47,14 +47,14 @@
 
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ㅤㅤ![](https://github-readme-streak-stats.herokuapp.com/?user=mshazil&theme=dark&hide_border=false)<br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![](https://github-readme-streak-stats.herokuapp.com/?user=mshazil&theme=dark&hide_border=false)<br/>
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-stats.vercel.app/api?username=mshazil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-stats.vercel.app/api?username=mshazil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshazil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshazil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
@@ -66,7 +66,7 @@
 
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [![](https://visitcount.itsvg.in/api?id=mshazil&icon=3&color=12)](https://visitcount.itsvg.in)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![](https://visitcount.itsvg.in/api?id=mshazil&icon=3&color=12)](https://visitcount.itsvg.in)
 
 
 
