@@ -47,7 +47,7 @@
 
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![](https://github-readme-streak-stats.herokuapp.com/?user=mshazil&theme=dark&hide_border=false)<br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-streak-stats.herokuapp.com/?user=mshazil&theme=dark&hide_border=false)<br/>
 <br>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://github-readme-stats.vercel.app/api?username=mshazil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
