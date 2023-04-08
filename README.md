@@ -5,7 +5,7 @@
 
 <br>
 
-<h1 align="center">💫 About me </h1>
+<h2 align="center">💫 About me </h2>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3 align="center">Find me on</h3>
+<h2 align="center">Find me on</h2>
 
 <br>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<h1 align="center">📊 GitHub Stats </h1>
+<h2 align="center">📊 GitHub Stats </h2>
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <br>
 
-<h1 align="center">✍️ Random Dev Quote</h1>
+<h2 align="center">✍️ Random Dev Quote</h2>
 
 <br>
 
