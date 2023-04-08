@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center">
+<p align="center">
   
 🔭 I’m currently working on **Lo-Finity**
 
@@ -20,7 +20,7 @@
 👨‍💻 To know more about me [shazil.dev](shazil.dev)
 
 📫 How to reach me **mshaziluv@gmail.com**
-</h3>
+</p>
 
 <br>
 
