@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning **BackEnd**
 
-👯 I’m looking to collaborate with other **Users**
+👯 I’m looking to collaborate with other **Developers**
 
 👨‍💻 To know more about me [shazil.dev](shazil.dev)
 
